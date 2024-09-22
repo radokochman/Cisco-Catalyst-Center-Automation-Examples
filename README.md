@@ -1,6 +1,6 @@
 # Cisco-Catalyst-Center-Automation-Examples
 
-Whis repository contains Cisco Catalyst Center automation examples. 
+This repository contains Cisco Catalyst Center automation examples. 
 
 ## Requirements
 
